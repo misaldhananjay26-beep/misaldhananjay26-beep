@@ -1,33 +1,27 @@
-# Dhananjay Misal
+# 💫 About Me:
+Hi there, I'm Dhananjay Misal 👋<br><br><br><br>I'm a full-stack developer, hardware builder, and AI enthusiast passionate about building local-first applications, interactive web experiences, and intelligent robotics systems.<br><br><br><br>🚀 Flagship Projects<br><br><br><br>* ARJUNA Desktop — A local-first native desktop app (Electron + Python sidecar) routing 50+ AI models via OpenRouter, NVIDIA NIM, and Gemini APIs, integrated with MCP and ElevenLabs voice.<br><br>* Arjuna PCM Simulation Index — An interactive educational platform mapping 664 secondary Physics, Chemistry, and Mathematics concepts to 513 virtual labs and simulations.<br><br>* 3D Wizard's Chess — An immersive web app featuring procedural Gothic cathedral environments, custom animations, and synthesized acoustics built with Three.js and the Gemini API.<br><br>* Arjuna PayRecord — A local-first mobile app for tracking expenses, managing receipts, and parsing financial messages into structured entries.<br><br><br><br>🛠️ Tech Stack & Tools<br><br><br><br>* Languages & Web: Python, JavaScript, HTML, CSS, TypeScript<br><br>* Frameworks & Libraries: Flask, Streamlit, FastAPI, Three.js, Anime.js, Electron, OpenCV<br><br>* AI & Integration: Gemini API, OpenRouter, NVIDIA NIM, Model Context Protocol (MCP), ElevenLabs<br><br>* Hardware & Robotics: Raspberry Pi, Arduino, ESP32, Camera Modules, Sensors, OpenCV Vision Pipelines<br><br><br><br>📫 Connect With Me<br><br><br><br>* Instagram/Social: @misaldhananjay_ <br><br>* Email: misaldhananjay26@gmail.com
 
-Building practical software with AI, web technologies, and automation.
 
-I enjoy turning real problems into usable products—from education and disaster response to productivity tools. I am currently strengthening my foundations in data structures, algorithms, full-stack development, and responsible AI.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misaldhananjay_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/dhananjay-misal-74a926307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misaldhananjay26@gmail.com) 
 
-## What I am working on
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=misaldhananjay26-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=misaldhananjay26-beep&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=misaldhananjay26-beep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Building small, deployable full-stack applications with clear documentation
-- Learning data structures and algorithms through a consistent problem-solving journal
-- Improving reliability, accessibility, and user experience in student-focused products
-- Exploring AI features that are useful, explainable, and safe
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=misaldhananjay26-beep&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Featured work
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- [My Portfolio V3](https://github.com/misaldhananjay26-beep/My-Portfolio-V3) — personal portfolio and project hub
-- [AiTube](https://github.com/misaldhananjay26-beep/AiTube) — an education-focused web platform
-- [Disaster Management Drone](https://github.com/misaldhananjay26-beep/Disaster-Management-drone-) — an exploration of technology for emergency response
-- [Leads Collection AI](https://github.com/misaldhananjay26-beep/Leads-collection-AI) — an AI-assisted lead collection experiment
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=misaldhananjay26-beep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Current learning
+---
+[![](https://komarev.com/ghpvc/?username=misaldhananjay26-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-JavaScript · TypeScript · React · Node.js · Python · SQL · Data Structures & Algorithms · Git & GitHub
-
-## Problem solving
-
-I am building a public [DSA journal](https://github.com/misaldhananjay26-beep/dsa-journal) with readable explanations, complexity analysis, and tests. The goal is consistent learning—not empty activity.
-
-## Connect
-
-- Portfolio: [arjunapro.site](https://arjunapro.site/)
-- LinkedIn: [Dhananjay Misal](https://in.linkedin.com/in/dhananjay-misal-74a926307)
-- LeetCode: [dhananjaymisal07](https://leetcode.com/u/dhananjaymisal07/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
